@@ -1,5 +1,5 @@
-#Cookie获取
-#一盒糖
+#  > Cookie获取
+#  > 一盒糖
 
 #  > 京东
 https:\/\/api\.m\.jd\.com\/client\.action.*functionId=signBean url script-request-header https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js
