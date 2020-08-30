@@ -49,6 +49,9 @@
 #  > 腾讯新闻
 */6 * * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/txnews.js, tag=腾讯新闻, img-url=https://raw.githubusercontent.com/Orz-3/task/master/txnews.png,enabled=true
 
+#  > 🧧
+59 23 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/txnews.js, tag=腾讯新闻, img-url=https://raw.githubusercontent.com/Orz-3/task/master/txnews.png,enabled=true
+
 #  > QQ会员
 #  > 手机qq进入左侧会员，滑动即可
 12  0 * * ? https://raw.githubusercontent.com/lowking/Scripts/master/QQVip/qqVipCheckIn.js, tag=qq会员成长值, img-url=https://raw.githubusercontent.com/Orz-3/task/master/qqvip.png, enabled=true
