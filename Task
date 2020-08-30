@@ -54,4 +54,5 @@
 12  0 * * ? https://raw.githubusercontent.com/lowking/Scripts/master/QQVip/qqVipCheckIn.js, tag=qq会员成长值, img-url=https://raw.githubusercontent.com/Orz-3/task/master/qqvip.png, enabled=true
 
 #  > 斗鱼鱼吧
+#  > 浏览器登录 https://yuba.douyu.com/homepage/hotwbs
 13 0 * * * https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Task/yubaSign.js, tag=斗鱼鱼吧, img-url=https://raw.githubusercontent.com/Orz-3/task/master/douyu.png,enabled=true
