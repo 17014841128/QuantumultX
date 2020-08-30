@@ -43,6 +43,3 @@
 
 #  > 斗鱼鱼吧
 13 0 * * * https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Task/yubaSign.js, tag=斗鱼鱼吧, img-url=https://raw.githubusercontent.com/Orz-3/task/master/douyu.png,enabled=true
-
-#  > 陌陌极速版
-0 2,13,25,45,55 0-23 * * ? https://raw.githubusercontent.com/wangdelu2020/hongliyu/master/momosign.js, tag=陌陌极速版签到, enabled=false
