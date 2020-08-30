@@ -18,6 +18,7 @@
 
 #  > 机场签到
 2 6 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkin_env.js, tag=机场签到, img-url=https://raw.githubusercontent.com/Orz-3/master/master/airport.png, enabled=false
+
 #  > 机场签到Cookie
 #  > https:\/\/cccat\.io url script-request-header https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkincookie_env.js
 #  >(其中https:\/\/cccat\.io需要替换为你自己的机场链接)
