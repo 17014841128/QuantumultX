@@ -69,10 +69,6 @@
 #  > 打开 APP 我 > 签到 (右上角, 不用手动签到)
 14 6 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/wps/wps.js, tag=WPS, img-url=https://raw.githubusercontent.com/Orz-3/task/master/wps.png,enabled=true
 
-#  > 斗鱼鱼吧
-#  > 浏览器登录 https://yuba.douyu.com/homepage/hotwbs
-15 6 * * * https://raw.githubusercontent.com/lowking/Scripts/master/douyu/yubaSign.js, tag=斗鱼鱼吧, img-url=https://raw.githubusercontent.com/Orz-3/task/master/douyu.png, enabled=false
-
 #  > 腾讯新闻
 */6 0-20/1 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/txnews.js, tag=腾讯新闻, img-url=https://raw.githubusercontent.com/Orz-3/task/master/txnews.png,enabled=true
 
