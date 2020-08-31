@@ -7,7 +7,7 @@
 #  > 彩云天气
 0 8-22/2 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/caiyun.js, tag=彩云天气, img-url=https://raw.githubusercontent.com/Orz-3/task/master/caiyun.png, enabled=false
 
-#  > 生日
+#  > 生日倒计时
 0 0 * * * https://raw.githubusercontent.com/dompling/Script/master/birthdayCountDown/index.js, tag=生日倒计时, img-url=https://raw.githubusercontent.com/Orz-3/task/master/birthday.png, enabled=false
 
 #  > 一言
