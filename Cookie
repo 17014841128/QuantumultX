@@ -1,6 +1,3 @@
-hostname =  api.m.jd.com，iface?.iqiyi.com，nebula.kuaishou.com，*.bilibili.com，*.rr.tv，*.rrys2019.com, ios.zmzapi.com，music.163.com，c.tieba.baidu.com，www.52pojie.cn，zt.wps.cn，api.inews.qq.com，proxy.vac.qq.com，yuba.douyu.com
-
-
 #  > Cookie获取
 #  > 一盒糖
 
@@ -43,3 +40,5 @@ https:\/\/proxy.vac.qq.com\/cgi-bin\/srfentry.fcgi? url script-request-header ht
 
 #  > 斗鱼鱼吧
 https://yuba.douyu.com/wbapi/web/group/myFollow url script-request-header https://raw.githubusercontent.com/lowking/Scripts/master/douyu/yubaSign.js
+
+hostname =  api.m.jd.com，iface?.iqiyi.com，nebula.kuaishou.com，*.bilibili.com，*.rr.tv，*.rrys2019.com, ios.zmzapi.com，music.163.com，c.tieba.baidu.com，www.52pojie.cn，zt.wps.cn，api.inews.qq.com，proxy.vac.qq.com，yuba.douyu.com
