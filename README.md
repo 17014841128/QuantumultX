@@ -3,7 +3,7 @@
 * 仅供个人使用.
 
 
-### Loon脚本订阅配置：
+### QuantumultX脚本订阅配置：
 
 * [Script](https://raw.githubusercontent.com/1653379593/QuantumultX/master/Script) 脚本订阅
 
