@@ -24,6 +24,10 @@ https?://link.zhihu.com/?target= url script-request-header https://raw.githubuse
 
 # 哔哩哔哩番剧开启1080P+
 ^https:\/\/ap(p|i)\.bilibili\.com\/((pgc\/player\/api\/playurl)|(x\/v2\/account\/myinfo\?)|(x\/v2\/account/mine\?)) url script-response-body https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/bilifj.js
+# 哔哩哔哩番剧
+一盒糖, [20.09.20 13:50]
+https:\/\/api\.bilibili\.com\/pgc\/player\/api\/playurl url 302 http://api.jucatyo.com/playurl
+https:\/\/api.bilibili.com\/pgc\/view\/app\/season url 302 http://api.jucatyo.com/season
 
 # 抖音去广告去水印 (By Choler)
 #URL Rewrite
