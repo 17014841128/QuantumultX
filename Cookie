@@ -35,10 +35,16 @@ https:\/\/www\.52pojie\.cn\/home\.php\?mod=space url script-request-header https
 #  > 腾讯新闻
 https:\/\/api\.inews\.qq\.com\/event\/v1\/user\/event\/report\? url script-request-body https://raw.githubusercontent.com/Sunert/Scripts/master/Task/txnews.js
 
+#  > 腾讯新闻
+https:\/\/api\.inews\.qq\.com\/event\/v1\/user\/event\/report\? url script-request-body https://raw.githubusercontent.com/Sunert/Scripts/master/Task/txnews2.js
+
 #  > QQ会员
 https:\/\/proxy.vac.qq.com\/cgi-bin\/srfentry.fcgi? url script-request-header https://raw.githubusercontent.com/lowking/Scripts/master/QQVip/qqVipCheckIn.js
 
-#  > 斗鱼鱼吧
-^https://yuba.douyu.com/wbapi/web/group/myFollow? url script-request-header https://github.com/lowking/Scripts/blob/master/douyu/yubaSign.js
+#  > 中青
+https:\/\/\w+\.youth\.cn\/TaskCenter\/(sign|getSign) url script-request-header youth.js
+https?:\/\/ios\.baertt\.com\/v5\/article\/complete url script-request-body youth.js
+https:\/\/ios\.baertt\.com\/v5\/article\/red_packet url script-request-body youth.js
+https:\/\/ios\.baertt\.com\/v5\/user\/app_stay\.json url script-request-body youth.js
 
-hostname =  api.m.jd.com, iface?.iqiyi.com, nebula.kuaishou.com, *.bilibili.com, *.rr.tv, *.rrys2019.com, ios.zmzapi.com, music.163.com, c.tieba.baidu.com, www.52pojie.cn, zt.wps.cn, api.inews.qq.com, proxy.vac.qq.com, yuba.douyu.com
+hostname =  api.m.jd.com, iface?.iqiyi.com, nebula.kuaishou.com, *.bilibili.com, *.rr.tv, *.rrys2019.com, ios.zmzapi.com, music.163.com, c.tieba.baidu.com, www.52pojie.cn, zt.wps.cn, api.inews.qq.com, proxy.vac.qq.com, *.youth.cn, ios.baertt.com 
