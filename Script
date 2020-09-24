@@ -405,10 +405,6 @@ https://(commerce-.*api|pay).(faceu|wecut).(com|mobi)/(commerce|apple)/(iosAppVe
 # YouTube去广告
 (.+)(ctier=L)(&.+) url 302 $1ctier=A$2
 
-聆听, [24.09.20 08:37]
-[回复 🆂🄷🄰🅆🄽🅻🄴🄾🄽🄶]
-(.+)(ctier=L)(&.+) url 302 $1ctier=A$2
-
 #哔咔漫画 屏蔽更新(By @FlintyLemming)
 #iOS 2.1.2.1 屏蔽 2.1.2.2 的更新提示
 ^https:\/\/api\.wakamoment\.ga\/init\?platform\=ios url script-response-body https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/blockBikaUpdate.js
