@@ -5,12 +5,13 @@
 
 ### QuantumultX脚本订阅配置：
 
-* [Script](https://raw.githubusercontent.com/1653379593/QuantumultX/master/Script) 脚本订阅
+* [Script](https://raw.githubusercontent.com/1653379593/QuantumultX/master/Script?token=AMVEVX6ZFDCOIVRH7TEWSEC7V7CME) 脚本订阅
 
-* [Cookie](https://raw.githubusercontent.com/1653379593/QuantumultX/master/Cookie)获取Cookie订阅
+* [Cookie](https://raw.githubusercontent.com/1653379593/QuantumultX/master/Cookie?token=AMVEVX4I2SIL3C2XGXP37UC7V7CJ4) 获取Cookie订阅
 
-* [Task](https://raw.githubusercontent.com/1653379593/QuantumultX/master/Task) 定时任务订阅
+* [Task](https://raw.githubusercontent.com/1653379593/QuantumultX/master/Task?token=AMVEVX7VMT253TK4B7EGU3K7V7CNM) 定时任务订阅
 
+* [Task](https://raw.githubusercontent.com/1653379593/QuantumultX/master/bilibli?token=AMVEVX7VEPL63EQQ2FVINAS7V7CGC) 哔哩哔哩解锁大会员
 
 ## 免责声明：
 
