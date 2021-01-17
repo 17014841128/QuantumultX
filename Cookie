@@ -40,11 +40,14 @@ https:\/\/proxy.vac.qq.com\/cgi-bin\/srfentry.fcgi? url script-request-header ht
 
 #  > 中青
 https:\/\/\w+\.youth\.cn\/TaskCenter\/(sign|getSign) url script-request-header youth.js
+
 https?:\/\/ios\.baertt\.com\/v5\/article\/complete url script-request-body youth.js
+
 https:\/\/ios\.baertt\.com\/v5\/article\/red_packet url script-request-body youth.js
+
 https:\/\/ios\.baertt\.com\/v5\/user\/app_stay\.json url script-request-body youth.js
 
-#  > 笑谱
+#  > 一刻
 https://api.yikeapp.com url script-request-body https://raw.githubusercontent.com/adwktt/adwktt/master/yk.js
 
 hostname =  api.m.jd.com, iface?.iqiyi.com, nebula.kuaishou.com, *.bilibili.com, *.rr.tv, *.rrys2019.com, ios.zmzapi.com, music.163.com, c.tieba.baidu.com, www.52pojie.cn, zt.wps.cn, api.inews.qq.com, proxy.vac.qq.com, *.youth.cn, ios.baertt.com, api.yikeapp.com
