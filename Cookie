@@ -35,9 +35,6 @@ https:\/\/www\.52pojie\.cn\/home\.php\?mod=space url script-request-header https
 #  > 腾讯新闻
 https:\/\/api\.inews\.qq\.com\/event\/v1\/user\/event\/report\? url script-request-body https://raw.githubusercontent.com/Sunert/Scripts/master/Task/txnews.js
 
-#  > 腾讯新闻
-https:\/\/api\.inews\.qq\.com\/event\/v1\/user\/event\/report\? url script-request-body https://raw.githubusercontent.com/Sunert/Scripts/master/Task/txnews2.js
-
 #  > QQ会员
 https:\/\/proxy.vac.qq.com\/cgi-bin\/srfentry.fcgi? url script-request-header https://raw.githubusercontent.com/lowking/Scripts/master/QQVip/qqVipCheckIn.js
 
